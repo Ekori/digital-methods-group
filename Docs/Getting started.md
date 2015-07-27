@@ -1,4 +1,4 @@
-## Getting started
+### Getting started
 
 - [Set up Git](https://help.github.com/articles/set-up-git/)
 
@@ -6,9 +6,13 @@
 
 - [Using pull requests](https://help.github.com/articles/using-pull-requests/)
 
-## Reference
+### Reference
 
 
 - [Using Git Cheatsheet](https://gist.github.com/hofmannsven/6814451)
 
 - [Atlassian's Git Tutorial](https://www.atlassian.com/git/tutorials)
+
+### Formatting guidelines
+
+- [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
