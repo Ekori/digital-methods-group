@@ -1,10 +1,14 @@
-### Getting started
+## Getting started
 
 - [Set up Git](https://help.github.com/articles/set-up-git/)
 
 - [Fork this repo](https://help.github.com/articles/fork-a-repo/)
 
 - [Using pull requests](https://help.github.com/articles/using-pull-requests/)
+
+#### Understanding Github
+
+- [GitHub flow](https://guides.github.com/introduction/flow/)
 
 ### Reference
 
