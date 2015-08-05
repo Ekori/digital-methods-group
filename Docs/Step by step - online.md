@@ -50,3 +50,6 @@ You will get a default suggestion for labelling the commit (this label describes
 
 ![alt text](https://github.com/Ekori/digital-methods-group/blob/master/_images/Commit.png?raw=true "File view") 
 
+Once your pull request (commit) has been sent to the **main user**, they will receive a request to approve your pull request:
+
+![alt text](https://github.com/Ekori/digital-methods-group/blob/master/_images/Pull_request.png?raw=true "File view")
