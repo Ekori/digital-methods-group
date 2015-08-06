@@ -1,5 +1,13 @@
-## digital-methods-group
+## Digital Methods Group 
 Building blocks of an interdisciplinary research group at UoG. 
+
+Some guides to get you started:
+
+[Collection of guides to get you started](docs/Getting_Started.md)
+
+[Step by Step for using GitHub (Browser)](docs/SbS_browser.md)
+
+
 
 
 ## License
