@@ -1,14 +1,11 @@
 #Step by step - Using the GitHub Website
 
+This is a guide written specifically for interacting with the **Digital Methods Group GitHub**. If you would like a general introduction, there are plenty of great guides out there for getting to grips with Git and GitHub (you can find some links [here](/Getting_started.md)). 
 
->###Formatting note:
->
-Text displayed like `this` or 
+This guide assumes that you **already have a GitHub account**, but you **don't have to have Git or the client installed on your machine**. 
 
->```bash
-this
-```
->refers to commands that you can type into the **Command Prompt (CMD)** (PC) or **Terminal** (Mac) application to make stuff happen.
+Because we assume that several members of the group will be limited by what they can install on the University PCs, we have tried to create a workflow for uploading your content to the account using just the browser. This does have limitations, so if you would like to be more involved in the running of the page, you can either use your own machine or ask IT to install the client for you.
+
 
 ##Step 1 - Forking
 

@@ -3,14 +3,16 @@
 ##### Attending: Stuart; Elina
 
 1.	Organisation of the group:
-  a.	The group name will be – Experimental Methods in the Humanities at Glasgow
-  b.	The group will use the Stella Lab space at 11 University Gardens; Elina to contact Marc Alexander to book. 
-  c.	Meetings will take place bi-weekly on Friday afternoons, prior to (optional) socialising. 
+
+  * The group name will be – Experimental Methods in the Humanities at Glasgow
+  * The group will use the Stella Lab space at 11 University Gardens; Elina to contact Marc Alexander to book. 
+  * Meetings will take place bi-weekly on Friday afternoons, prior to (optional) socialising. 
   d.	Elina to email Ann Gow re: HATII graduate student that may be interested in the group.
   e.	The group’s online presence will be hosted on GitHub.
 
 2.	How-to Guides:
-  a.	Stuart to log his learning process and create doc.
+
+ a.	Stuart to log his learning process and create doc.
 
 3.	Elina to email Dennis Tenen re: link up with Columbia University.
 

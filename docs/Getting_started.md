@@ -1,5 +1,7 @@
 ## Getting started
 
+- [Hello world](https://guides.github.com/activities/hello-world/)
+
 - [Set up Git](https://help.github.com/articles/set-up-git/)
 
 - [Fork this repo](https://help.github.com/articles/fork-a-repo/)
